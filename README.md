@@ -27,6 +27,12 @@ I'm a **Frontend Developer** and a graduate of the Faculty of Engineering (2024)
 
 ### 🌟 Projects
 
+- **Cartify**  
+  A fully functional e-commerce web application built with React, Tailwind CSS, React Router Dom, Axios, Tanstack query, Formik, Yup, and various libraries to provide a seamless shopping experience. The app includes user authentication, product browsing, filtering, cart management, order placement, and checkout functionality.
+  
+- **SwiftBuy**  
+  modern e-commerce web application that provides a seamless shopping experience. Built using React, Redux Toolkit, and Tailwind CSS, this application features a dynamic and responsive design.
+  
 - **React Portfolio**  
   Developed a modern, responsive portfolio using React, Tailwind CSS, and Redux Toolkit, featuring a Home page, About page, Projects section, and Contact page.
 
