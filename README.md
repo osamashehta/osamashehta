@@ -1,5 +1,5 @@
 # Hi there, I'm Osama Shehta! 👋  
-**Frontend Developer | Building seamless web experiences with React, Tailwind, and more!**
+**Frontend Developer | Building seamless web experiences with React, Next, and more!**
 
 ### 🚀 About Me
 
