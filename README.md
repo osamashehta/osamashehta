@@ -1,8 +1,11 @@
-# Hi there, I'm Osama Shehta! 👋
+# Hi there, I'm Osama Shehta! 👋  
+**Frontend Developer | Building seamless web experiences with React, Tailwind, and more!**
+
+---
 
 ### 🚀 About Me
 
-I'm a **Frontend Developer** and a graduate of the Faculty of Engineering (2024) with a degree in Computer and Systems Engineering. Currently, I'm focused on enhancing my skills in frontend development and building responsive, user-friendly web applications.
+I am a **Frontend Developer** at **Almasader Alraqmia**, a graduate of the Faculty of Engineering (2024) with a Computer and Systems Engineering degree.
 
 ### 🛠 Skills & Technologies
 
@@ -59,3 +62,7 @@ Based in **Egypt**, I'm available to work in the office, remotely, or as a freel
 ### ⚡ Fun Fact
 
 I'm passionate about learning new technologies and constantly improving my skills to build amazing web applications!
+
+---
+
+**Thanks for visiting my profile!** 😄
