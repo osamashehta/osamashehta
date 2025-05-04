@@ -1,4 +1,4 @@
-# Hi there, I'm Osama Shehta! 👋  
+# Hi there, I'm Osama Saqr! 👋  
 **Frontend Developer | Building seamless web experiences with React, Next, and more!**
 
 ### 🚀 About Me
@@ -25,36 +25,13 @@ I am a **Frontend Developer** at **Almasader Alraqmia**, a graduate of the Facul
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-### 🌟 Projects
-
-- **Cartify**  
-  A fully functional e-commerce web application built with React, Tailwind CSS, React Router Dom, Axios, Tanstack query, Formik, Yup, and various libraries to provide a seamless shopping experience. The app includes user authentication, product browsing, filtering, cart management, order placement, and checkout functionality.
-  
-- **SwiftBuy**  
-  modern e-commerce web application that provides a seamless shopping experience. Built using React, Redux Toolkit, and Tailwind CSS, this application features a dynamic and responsive design.
-  
-- **React Portfolio**  
-  Developed a modern, responsive portfolio using React, Tailwind CSS, and Redux Toolkit, featuring a Home page, About page, Projects section, and Contact page.
-
-- **Weather Forecast Application**  
-  A responsive web app providing real-time weather data and hourly forecasts for multiple cities using HTML, CSS, Bootstrap, and JavaScript.
-
-- **Bookmark Manager**  
-  A web app with full CRUD functionality and an Archive page for managing bookmarks efficiently, ensuring cross-device compatibility.
-
-- **Game Over**  
-  An interactive and user-friendly Games-OOP application built with HTML, CSS, JavaScript, OOP and API. This project uses the Free to Play Games Database API to fetch game details based on the user's selected genre.
-
-
-
 ### 🌍 Location
 
 Based in **Egypt**, I'm available to work in the office, remotely, or as a freelancer, with flexibility for all days of the week.
 
 ### 📫 Let's Connect
 
-- **GitHub**: https://github.com/osamashehta
+- **Linkedin**: https://www.linkedin.com/in/osama-shehta/
 - **Email**: osama.shehtafathi@gmail.com
 
 ### ⚡ Fun Fact
